@@ -1,0 +1,4 @@
+chmod -R 777 config
+chmod -R 777 data
+chmod -R 777 uc_server/data
+chmod -R 777 uc_client/data
